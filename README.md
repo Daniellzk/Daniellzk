@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniellzk
 - 👀 I’m interested in software engineering and aquascaping
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working on a python Tax calculator project
 - 📫 How to reach me luoz56@mcmaster.ca
 
 <!---
